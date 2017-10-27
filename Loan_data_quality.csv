@@ -1,0 +1,14 @@
+,data types,Missing Values,Present Values,Unique Values,Minimum Values,Maximum Values
+ApplicantIncome,int64,0,981,752,0,81000
+CoapplicantIncome,float64,0,981,437,0.0,41667.0
+Credit_History,float64,79,902,2,0.0,1.0
+Dependents,object,25,956,4,0,0
+Education,object,0,981,2,0,0
+Gender,object,24,957,2,0,0
+LoanAmount,float64,27,954,232,9.0,700.0
+Loan_Amount_Term,float64,20,961,12,6.0,480.0
+Loan_ID,object,0,981,981,0,0
+Loan_Status,object,367,614,2,0,0
+Married,object,3,978,2,0,0
+Property_Area,object,0,981,3,0,0
+Self_Employed,object,55,926,2,0,0
